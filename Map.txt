@@ -1,0 +1,13 @@
+#Sort using Map
+var input = [2,3,8,1,4,5,9,7,6];
+
+var put = [];
+sorted = function(){
+    put=input.sort();
+}
+var m=input.map(sorted);
+ƒ (){
+    put=input.sort();
+}
+put
+(9) [1, 2, 3, 4, 5, 6, 7, 8, 9]
